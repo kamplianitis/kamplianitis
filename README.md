@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on Deployment of hw-extended containers on a soft-core RISCV implementation
+🌱 I’m currently working on Deployment of hw-extended containers on a soft-core RISCV implementation
+
 
 
 <!--
@@ -9,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 
+- 🔭 Projects I have done!
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 

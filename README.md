@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working on Deployment of hw-extended containers on a soft-core RISCV implementation
 -->
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/0dayNinja/0dayNinja/blob/main/github.gif" width=200>
     <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamplianitis&&theme=dark&layout=compact">

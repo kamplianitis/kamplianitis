@@ -12,7 +12,6 @@ An Embedded Systems & Hardware Engineer who also happens to be a Python Software
 ![Matlab](https://img.shields.io/static/v1?label=&message=Matlab&color=0076A8&style=for-the-badge&logo=Mathworks&logoColor=white&maxAge=604800)
 ![DJango](https://img.shields.io/static/v1?label=&message=DJango&color=092E20&style=for-the-badge&logo=Django&logoColor=white&maxAge=604800)
 ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=336791&style=for-the-badge&logo=postgresql&logoColor=white&maxAge=604800)
-![Nginx](https://img.shields.io/static/v1?label=&message=Nginx&color=269539&style=for-the-badge&logo=Nginx&logoColor=white&maxAge=604800)
 ![C](https://img.shields.io/static/v1?label=&message=C&color=00599C&style=for-the-badge&logo=C%2b%2b&logoColor=white&maxAge=604800)
 
 <!--

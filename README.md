@@ -18,21 +18,21 @@ I am an Elecrical and Computer Engineering Student, I am a software Engineer at 
  <h1 align="center", style="color:red;">🛠️ My Skills</h1>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/kamplianitis/kamplianitis/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,java,rust" />
   </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/kamplianitis/kamplianitis/blob/main/Images/software_tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,stackoverflow,latex,django,docker,mysql,postman" />
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+### <picture> <img src = "https://github.com/kamplianitis/kamplianitis/blob/main/Images/IDes.gif?raw=true" width = 50px>  </picture> IDEs
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" />

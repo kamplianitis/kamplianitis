@@ -58,6 +58,13 @@ I am an Elecrical and Computer Engineering Student, I am a software Engineer at 
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamplianitis&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="kamplianitis" height="230px"/>
 </details>
 
+
+<details><summary><h3>💻 TryHackMe Stats</h3></summary>
+<p align="center">
+	<img src="https://tryhackme-badges.s3.amazonaws.com/kostasamplia.png" alt="TryHackMe">
+</p>
+</details>
+
 <hr/>
 
 <br>

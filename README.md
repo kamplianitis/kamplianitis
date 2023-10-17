@@ -7,7 +7,7 @@
  <h1 align="center", style="color:red;">About me</h1>
 </p>
 
-I am an Elecrical and Computer Engineering Student, I am a software Engineer at Sphynx Technology Solutions. I am a lover of technology, I am passionate about Embedded Systems, FPGAs and also backend engineering. I work professionally with Django, a framework based on Python. I also work with PostreSQL databases. I am passionate about tools like Docker, Kubernetes and Helm.
+I have a Bachelor's with integrated Masters degree in Electrical and Computer Engineering, I am a software Engineer at Sphynx Technology Solutions. I am a lover of technology, I am passionate about Embedded Systems, FPGAs and also backend engineering. I work professionally with Django, a framework based on Python. I also work with PostreSQL databases. I am passionate about tools like Docker, Kubernetes and Helm.
 
 - 🔭 I’m currently completing my thesis: Deployment of hardware-extended containers on a  soft-core RISC-V implementation.
 - 🔭 I'm working with Django 4.2.1.

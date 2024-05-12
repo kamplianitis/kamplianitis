@@ -11,8 +11,9 @@ I have a Bachelor's with integrated Masters degree in Electrical and Computer En
 
 - :mortar_board: I have completed my thesis: Deployment of hardware-extended containers on a  soft-core RISC-V implementation.
 - :computer: I'm working with Django 4.2.1.
-- :wrench: Working on a side project deploying docker images on a remote environment.
-- 🖥️ Working on creating a project implementing the Map Reduce algorithm introduced by Google. Framework used is Django.
+- :wrench: Self-taught Rust developer.
+- 💻 Passionate about system applications. 
+- 🖥️ Learn more stuff about security.
 
 <br>
 <br>

@@ -7,11 +7,11 @@
  <h1 align="center", style="color:red;">About me</h1>
 </p>
 
-I have a Bachelor's with integrated Masters degree in Electrical and Computer Engineering, I am a software Engineer at Sphynx Technology Solutions. I am a lover of technology, I am passionate about Embedded Systems, FPGAs and also backend engineering. I work professionally with Django, a framework based on Python. I also work with PostreSQL databases. I am passionate about tools like Docker, Kubernetes and Helm.
+Graduate software engineer in electrical and computer engineering with a solid grounding in software development and cybersecurity. Currently building cyber intelligence and analytics solutions at Sphynx Technology Solutions. Skilled in Python, Java, and a range of development tools. Proven track record of delivering complex projects, from multi-threaded OS systems to encryption tools and network traffic monitors. Combine technical expertise with a knack for learning, teamwork, and meticulous attention to detail. Looking to apply my diverse skill set and security focus in a challenging software engineering role, with an eye on backend development or DevOps. 
+
 
 - :mortar_board: I have completed my thesis: Deployment of hardware-extended containers on a  soft-core RISC-V implementation.
-- :computer: I'm working with Django 4.2.1.
-- :wrench: Self-taught Rust developer.
+- :wrench: Self-taught Rust/GO developer.
 - 💻 Passionate about system applications. 
 - 🖥️ Learn more stuff about security.
 

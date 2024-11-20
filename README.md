@@ -63,7 +63,7 @@ Graduate software engineer in electrical and computer engineering with a solid g
 
 <details><summary><h3>💻 TryHackMe Stats</h3></summary>
 <p align="center">
-	<img src="https://tryhackme-badges.s3.amazonaws.com/kostasamplia.png" alt="TryHackMe">
+	<img src="https://tryhackme-badges.s3.amazonaws.com/kostasamplia.png" alt="Your Image Badge" />
 </p>
 </details>
 

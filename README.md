@@ -11,7 +11,7 @@ Graduate software engineer in electrical and computer engineering with a solid g
 
 
 - :mortar_board: I have completed my thesis: Deployment of hardware-extended containers on a  soft-core RISC-V implementation.
-- :wrench: Self-taught Rust/GO developer.
+- :wrench: In process of learning GO.
 - 💻 Passionate about system applications. 
 
 <br>

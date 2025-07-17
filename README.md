@@ -23,7 +23,7 @@ Graduate software engineer in electrical and computer engineering with a solid g
 ### <picture> <img src = "https://github.com/kamplianitis/kamplianitis/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,rust" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,go,rust" />
   </a>
 </p>
 

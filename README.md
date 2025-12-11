@@ -7,8 +7,7 @@
  <h1 align="center", style="color:red;">About me</h1>
 </p>
 
-Graduate software engineer in electrical and computer engineering with a solid grounding in software development and cybersecurity. Currently building cyber intelligence and analytics solutions at Sphynx Technology Solutions. Skilled in Python, Java, and a range of development tools. Proven track record of delivering complex projects, from multi-threaded OS systems to encryption tools and network traffic monitors. Combine technical expertise with a knack for learning, teamwork, and meticulous attention to detail. Looking to apply my diverse skill set and security focus in a challenging software engineering role, with an eye on backend development or DevOps. 
-
+Graduate software engineer in Electrical and Computer Engineering with a solid grounding in software development and cybersecurity. Currently a Systems/DevOps Engineer at GRNET, focusing on High-Performance Computing (HPC) infrastructure and automation. I bring a proven track record of delivering complex projects, ranging from cyber intelligence solutions at Sphynx Technology Solutions to multi-threaded OS systems and encryption tools. Skilled in Python, Java, containerization, and infrastructure automation, I combine technical expertise with a collaborative mindset. Passionate about applying security principles to scalable infrastructure challenges.
 
 - :mortar_board: I have completed my thesis: Deployment of hardware-extended containers on a  soft-core RISC-V implementation.
 - :wrench: In process of learning GO.

@@ -54,9 +54,7 @@ Graduate software engineer in Electrical and Computer Engineering with a solid g
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	  <img alt="Konstantinos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kamplianitis&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamplianitis&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="kamplianitis" height="230px"/>
+	<a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api?username=kamplianitis&custom_title=GitHub+Stats&theme=transparent&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" /></a>
 </details>
 
 
